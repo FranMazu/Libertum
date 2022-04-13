@@ -1,1 +1,1 @@
-Entren a la carpeta libertum desde la consola (cd libertum),instalen las dependencias y en la consola escribiendo "nodemon ./bin/www" deberia iniciar el proyecto,en el navegador con entrar a localhost:3000/ deberia mostrar el proyecto. 
+Entren a la carpeta libertum desde la consola (cd,maqueta y luego cd libertum),instalen las dependencias y en la consola escribiendo "nodemon ./bin/www" deberia iniciar el proyecto,en el navegador con entrar a localhost:3000/ deberia mostrar el proyecto. 
